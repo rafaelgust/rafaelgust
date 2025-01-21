@@ -1,32 +1,26 @@
-- 👋 Hi, I’m Rafael...
+# 👋 Olá, sou Rafael!  
+**Desenvolvedor Flutter/Dart | Rust | PostgreSQL**  
 
-<div align="center">
-  <a href="https://github.com/rafaelgust">
-</div>
+🎯 **Sobre mim**  
+Atualmente, foco no desenvolvimento de aplicações utilizando **Flutter/Dart** no front-end e **Rust** com **PostgreSQL** no back-end. Sou apaixonado por explorar novas tecnologias e criar soluções robustas que impactam positivamente o dia a dia das pessoas.  
 
-<div align="center">
-  <img align="center" alt="Rafa-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/rafaelgust">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelgust&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgust&exclude_repo=rafaelgust.github.io&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-<br>
-<div align="center">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Nd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Rafa-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Rafa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
- 
-<div align="center">
-<p align="center">
- 
-  ![Snake animation](https://github.com/rafaelgust/rafaelgust/blob/main/github-contribution-grid-snake.svg)
+💡 Busco aprimorar minhas habilidades constantemente e contribuir para projetos desafiadores e inovadores.  
 
-</p>
+---
+
+💼 **Habilidades principais**  
+- **Atuais**: Flutter/Dart, Rust, PostgreSQL  
+- **Outros conhecimentos**: C#, Java, TypeScript, MySQL, mongoDB  
+
+---
+
+🌐 **Conecte-se comigo**  
+[GitHub](https://github.com/rafaelgust) | [LinkedIn](https://www.linkedin.com/in/rafaelgust/)
+
+---
+
+📊 **GitHub Stats**  
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelgust&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgust&exclude_repo=rafaelgust.github.io&layout=compact&langs_count=7&theme=midnight-purple" alt="Linguagens mais usadas"/>
 </div>
